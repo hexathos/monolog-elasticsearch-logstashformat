@@ -16,3 +16,6 @@ $log = new Monolog\Logger('invoicing');
 $log->pushHandler($handler);
 $log->warn('new sale', ['user_id' => 42, 'product_id' => 7537]);
 ```
+
+## It's a fork.
+This repository is a fork of https://github.com/nulpunkt/monolog-elasticsearch-logstashformat.
