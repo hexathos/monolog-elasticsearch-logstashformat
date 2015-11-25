@@ -33,7 +33,7 @@ class ElasticLogstashHandler extends \Monolog\Handler\AbstractProcessingHandler
             $this->client->index(
                 [
                     'index' => $this->options['index'],
-                    'type' => $this->options['type']
+                    'type' => $this->options['type'],
                     'body' => json_decode($record['formatted'], true)
                 ]
             );
