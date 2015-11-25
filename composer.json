@@ -17,7 +17,7 @@
             "email": "hexathos@gmail.com",
             "homepage": "https://hexathos.de",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.0",
