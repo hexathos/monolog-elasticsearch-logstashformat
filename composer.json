@@ -1,9 +1,9 @@
 {
-    "name": "mrbendig/monolog-elasticsearch-logstashformat",
+    "name": "hexathos/monolog-elasticsearch-logstashformat",
     "type": "library",
     "description": "Use the logstash formatter with elasticsearch - bugfixed version",
     "keywords": ["elasticsearch", "monolog", "logstash", "kibana"],
-    "homepage": "http://github.com/mrbendig/monolog-elasticsearch-logstashformat",
+    "homepage": "http://github.com/hexathos/monolog-elasticsearch-logstashformat",
     "license": "MIT",
     "authors": [
         {
